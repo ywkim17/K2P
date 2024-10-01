@@ -3,7 +3,7 @@
 K2P channels (two-pore domain potassium channels) play an important role in cellular function by facilitating the flow of potassium ions across cell membranes to maintain cellular electrochemical balance. Their overexpression is commonly observed in cancerous cells, prompting questions regarding their role in cancer development or progression. Using the Goldman-Hodgkin-Katz equation (measures the membrane potential based on the intracellular and extracellular values of key ions), this research aims to quantify membrane potential changes resulting from K2P overexpression. The methodology involves overexpressing the K2P channels of a specific muscle line in Drosophila melanogaster (fruit flies). Having an experimental group of conducting K2P channels and a control group of nonconducting K2P channels, saline solutions with different potassium concentrations were used to insert microelectrodes into specific larval muscle cells (m6m7). Then, the membrane potential of the muscle cells was recorded based on responses in potassium permeability between nonconducting and overexpressing lines. Based on twenty preparations, results suggested that overexpression of K2P channels increases its permeability to potassium, rendering the cell membrane potential more sensitive to potassium fluctuations. This increased sensitivity may contribute to differing activity patterns observed in cancerous cells compared to healthier cells. By identifying selective blockers for certain K2P channels and understanding their sensitivity to other pharmaceutical agents, there’s potential to target cancer cells specifically. However, achieving this requires further simulations using MATLAB by trying different fitting parameters in the Goldman-Hodgkin-Katz equation, which will result in a deeper understanding of how cells respond to overexpressing K2P channels.
 
 # Authors
-Youngwoo Kim
-Elizabeth Elliott
-Dr. David Murrugarra
-Dr. Robin Cooper
+- Youngwoo Kim
+- Elizabeth Elliott
+- Dr. David Murrugarra
+- Dr. Robin Cooper
